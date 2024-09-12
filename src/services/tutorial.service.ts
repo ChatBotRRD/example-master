@@ -31,4 +31,4 @@ class TutorialDataService {
   }
 }
 
-export default new TutorialDataService();
+export default new TutorialDataService()||undefined;
